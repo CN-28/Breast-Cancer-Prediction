@@ -6,7 +6,7 @@ Firstly, the dataset is divided into two sets: training and test datasets. The g
 with the greatest potential for improvement of the model are selected as the features. Then, the model is built and trained
 on the dataset. The accuracy of the trained model is 94.51%.
 
-The project was built to learn the basics of logistic regression and cosolidate the knowledge acquired during Google Machine Learning Crash Course.
+The project was built to learn the basics of logistic regression.
 
 
 <h1 id="visualization"> 📈 Visualization </h1>
@@ -47,3 +47,4 @@ Project was created with:
 
 <h1 id ="license"> ⚖️ License </h1>
 
+![GitHub](https://img.shields.io/github/license/CN-28/Breast-Cancer-Prediction)
